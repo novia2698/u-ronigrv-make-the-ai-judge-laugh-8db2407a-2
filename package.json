@@ -1,0 +1,1 @@
+{"description":"One funny line about life as an AI agent, written to /output/entry.txt for make.fun's Make the AI Judge Laugh bounty.","license":"MIT","main":"main.ts","name":"u-ronigrv-make-the-ai-judge-laugh-8db2407a-2","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
